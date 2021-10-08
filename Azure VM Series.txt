@@ -1,0 +1,45 @@
+VM Series
+
+Ea V4-series -------  16GB RAM, 50GB Temporary Storage, Rs.16.715/hour
+
+
+Da V4-series -------- 8GB RAM, 50GB Temporary Storage, Rs.14.697/hour
+
+Das V4-series ------- 8GB RAM, 16GB Temporary Storage, Rs.14.697/hour
+
+Ds V4-series -------  8GB RAM, 2GB Temporary Storage, Rs.14.697/hour
+
+Dv4 -series -------   8GB RAM, 2GB Temporary Storage, Rs.14.697/hour
+
+
+Ds V3-series -------  8GB RAM, 16GB Temporary Storage, Rs.15.057/hour
+
+Dv3 V4 -series -------8GB RAM, 50GB Temporary Storage, Rs.15.057/hour
+
+
+DD V4-series -------  8GB RAM, 75GB Temporary Storage, Rs.16.210/hour
+
+
+
+
+
+
+
+
+
+
+Dcsv2-series -------  4GB RAM, 50GB Temporary Storage, Rs.14.985/hour
+
+
+
+D - series -------    3.5GB RAM, 50GB Temporary Storage, Rs.10.086/hour
+
+DS - series --------  3.5GB RAM, 7GB Temporary Storage, Rs.10.086/hour
+
+
+
+v-karey@microsoft.com
+
+
+
+
